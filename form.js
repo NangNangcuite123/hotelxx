@@ -13,7 +13,7 @@
     arr.push(floor.value,room.value);
     console.log(arr);
     localStorage.setItem("arr",JSON.stringify(arr));
-    location = "http://127.0.0.1:5500/Hotel/tableofhotel.html";
+    location = "tableofhotel.html";
     }
 
 
